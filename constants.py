@@ -10,3 +10,8 @@ class ModelSelectionConstants(object):
 class RandomStateConstants(object): 
     TRAIN_TEST_SPLIT = 424242
     QUANTILE_SCALER = 123456
+    SVC_SEED = 789012
+    LOG_REG_SEED = 345678
+    DECISION_TREE_SEED = 890123
+    RANDOM_FOREST_SEED = 456789
+    GRADIENT_BOOSTING_SEED = 110797
